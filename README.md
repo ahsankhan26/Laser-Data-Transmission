@@ -16,5 +16,6 @@ The receiver parses the string into 8-bit pieces and converts them back to their
 # Future Improvements
 
 I made this project back when i had no knowledge of encoding techniques.
-*- The input sequence can be encoded using a method like "Hamming Encoding" or "BCH Encoding".
-*- Optimization needs to be done for faster data transfer
+
+- The input sequence can be encoded using a method like "Hamming Encoding" or "BCH Encoding".
+- Optimization needs to be done for faster data transfer
