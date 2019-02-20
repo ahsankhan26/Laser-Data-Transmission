@@ -1,4 +1,9 @@
 # Laser-Data-Transmission
 Textual data transmission using Laser and Arduino
 
-![Screenshot](screenshot.png)
+# Circuit Schematics
+Transmitter
+![Screenshot](transmitterCircuit.jpg)
+
+Receiver
+![Screenshot](receiverCircuit.jpg)
