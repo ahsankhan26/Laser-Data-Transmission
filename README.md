@@ -11,6 +11,7 @@ Receiver circuit
 
 # Working
 The input string is converted into binary with each letter of 8-bit ASCII representation.
+
 The receiver parses the string into 8-bit pieces and converts them back to their character representation using the ASCII table.
 
 # Future Improvements
